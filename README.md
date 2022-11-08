@@ -75,7 +75,4 @@ Brief description of functions contained in project:
 **identify_string** :  returns pointer with folder address.
 **prompt** :  infinite loop with fork to keep prompt going.
 **controlC**: avoid program closing when pressing ctrl + c.
-**main**: initialize program.
-
-This work is more difficult than i thought.
-Where you will get a prompt in the shape of a dollar sign so you can start typing commands into your shell.  Ago 
+**main**: initialize program. 
