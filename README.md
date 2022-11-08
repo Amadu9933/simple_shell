@@ -77,4 +77,4 @@ Brief description of functions contained in project:
 **controlC**: avoid program closing when pressing ctrl + c.
 **main**: initialize program.
 
-
+This work is more difficult than i thought.
