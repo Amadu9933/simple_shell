@@ -78,3 +78,6 @@ Brief description of functions contained in project:
 **main**: initialize program.
 
 This work is more difficult than i thought.
+Where you will get a prompt in the shape of a dollar sign so you can start typing commands into your shell.  Agood example of how it s
+
+hould execute is the command shown above were the user enters 'ls' and then gets a list of the directory contents.   
